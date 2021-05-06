@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SRP-THEGREAT
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning core java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me via twitter link in bio
 
 <!---
